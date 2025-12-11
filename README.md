@@ -1,19 +1,19 @@
-# 👋 Manish_M | AI Engineer
+# Manish_M | AI Engineer
 
 **Building intelligent systems that bridge machine learning, data engineering, and production-ready applications**
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 I specialize in developing end-to-end AI solutions—from data pipelines and ML model training to scalable backend systems and agentic applications. My focus is on creating robust, production-ready systems that leverage cutting-edge AI technologies.
 
 ### **Primary Expertise:**
-- **🤖 Machine Learning & AI**: Model development, training, and deployment
-- **📊 Data Engineering**: ETL pipelines, data processing, and warehousing
-- **⚙️ Backend & API Development**: Scalable server architectures and microservices
-- **🤝 Agentic Applications**: Multi-agent systems and autonomous AI workflows
-- **📱 Android Development**: Native mobile applications with ML integration
+- **Machine Learning & AI**: Model development, training, and deployment
+- **Data Engineering**: ETL pipelines, data processing, and warehousing
+- **Backend & API Development**: Scalable server architectures and microservices
+- **Agentic Applications**: Multi-agent systems and autonomous AI workflows
+- **Android Development**: Native mobile applications with ML integration
 
 ---
 
@@ -84,25 +84,6 @@ I specialize in developing end-to-end AI solutions—from data pipelines and ML 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
-
----
-
-## 🏆 Recent Projects
-
-### 🤖 **Agentic Workflow Orchestrator**
-_A multi-agent system for automating complex business processes using LLMs_
-- **Tech**: LangChain, FastAPI, Redis, Docker
-- **Features**: Autonomous agent coordination, memory management, human-in-the-loop
-
-### 📱 **ML-Powered Android Health App**
-_Real-time health monitoring with on-device ML inference_
-- **Tech**: Kotlin, TensorFlow Lite, Firebase, RoomDB
-- **Features**: Offline inference, cloud sync, predictive analytics
-
-### 🔧 **Scalable ML Training Pipeline**
-_Distributed training pipeline for computer vision models_
-- **Tech**: PyTorch, Apache Spark, Airflow, Kubernetes
-- **Features**: Auto-scaling, experiment tracking, model versioning
 
 ---
 
