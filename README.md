@@ -17,7 +17,7 @@ I specialize in developing end-to-end AI solutions—from data pipelines and ML 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 ### **Machine Learning & AI**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -41,7 +41,6 @@ I specialize in developing end-to-end AI solutions—from data pipelines and ML 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Android Development**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -53,7 +52,6 @@ I specialize in developing end-to-end AI solutions—from data pipelines and ML 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### **Frontend (Basic)**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -62,28 +60,12 @@ I specialize in developing end-to-end AI solutions—from data pipelines and ML 
 
 ---
 
-## 📈 GitHub Stats
+## Current Focus
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=8)
-
----
-
-## 🔭 Current Focus
-
-- **🤖 Agentic AI Systems**: Building autonomous agents for complex workflows
-- **📱 ML-Powered Mobile Apps**: Integrating AI models into Android applications
-- **🚀 MLOps Pipelines**: Streamlining ML model deployment and monitoring
-- **⚡ High-Performance APIs**: Optimizing backend systems for AI inference
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+- **Agentic AI Systems**: Building autonomous agents for complex workflows
+- **ML-Powered Mobile Apps**: Integrating AI models into Android applications
+- **MLOps Pipelines**: Streamlining ML model deployment and monitoring
+- **High-Performance APIs**: Optimizing backend systems for AI inference
 
 ---
 
