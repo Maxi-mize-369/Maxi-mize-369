@@ -26,25 +26,24 @@ My work centers on scalable, observable systems that move quickly from notebook 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![ONNX](https://img.shields.io/badge/ONNX-0F6CBD?style=for-the-badge&logo=onnx&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0AC2E3?style=for-the-badge&logo=langgraph&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-FFA500?style=for-the-badge&logo=langsmith&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
 ### Vector & Semantic Stores
 ![Milvus](https://img.shields.io/badge/Milvus-0AC2E3?style=for-the-badge&logo=milvus&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-1C3C3C?style=for-the-badge&logo=faiss&logoColor=white)
 ![Chroma](https://img.shields.io/badge/Chroma-FFA500?style=for-the-badge&logo=chroma&logoColor=black)
-![Weaviate](https://img.shields.io/badge/Weaviate-0AC2E3?style=for-the-badge&logo=weaviate&logoColor=white)
 
 ### Data Engineering
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### Backend & API Development
+### API Development
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
